@@ -1,0 +1,26 @@
+{
+  "name": "switch2",
+  "version": "0.1.0",
+  "description": "Nintendo Switch 2 flavoured Claude Code: Joy-Con status bar, HOME screen, trophies, console-style wording and click sounds",
+  "author": {
+    "name": "SimuraEpona",
+    "url": "https://github.com/SimuraEpona"
+  },
+  "homepage": "https://github.com/SimuraEpona/claude-plugin-switch2",
+  "repository": "https://github.com/SimuraEpona/claude-plugin-switch2",
+  "keywords": [
+    "switch2",
+    "nintendo",
+    "theme",
+    "fun"
+  ],
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "sounds": {
+      "type": "boolean",
+      "title": "Switch 2 sounds",
+      "description": "Play the click, select and done clips (macOS only)",
+      "default": true
+    }
+  }
+}

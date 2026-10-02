@@ -1,0 +1,18 @@
+{
+  "name": "simuraepona",
+  "owner": {
+    "name": "SimuraEpona",
+    "url": "https://github.com/SimuraEpona"
+  },
+  "metadata": {
+    "description": "SimuraEpona 的 Claude Code 插件"
+  },
+  "plugins": [
+    {
+      "name": "switch2",
+      "source": "./",
+      "description": "Nintendo Switch 2 flavoured Claude Code: Joy-Con status bar, HOME screen, trophies, console-style wording and click sounds",
+      "version": "0.1.0"
+    }
+  ]
+}
