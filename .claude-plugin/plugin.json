@@ -8,6 +8,7 @@
   },
   "homepage": "https://github.com/SimuraEpona/claude-plugin-switch2",
   "repository": "https://github.com/SimuraEpona/claude-plugin-switch2",
+  "license": "MIT",
   "keywords": [
     "switch2",
     "nintendo",

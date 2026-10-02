@@ -82,3 +82,7 @@ claude plugin test ./claude-plugin-switch2
 ## 声明
 
 非官方粉丝作品，与任天堂无关。Nintendo Switch 是任天堂的商标。
+
+## 许可
+
+MIT
